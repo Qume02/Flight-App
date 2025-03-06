@@ -1,4 +1,4 @@
-# Flight App (Jetpack Compose)
+# Flight App
 
 An Android Flight App, allowing users to search for destinations, browse flight routes, and manage favorite flight destinations.
 
