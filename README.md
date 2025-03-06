@@ -18,13 +18,40 @@ This Flight App is a demonstration project built using Jetpack Compose to showca
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/d6b1a01a-fb1a-454c-aa53-2318512cc9a4" width="250" alt="Search Screen 1">
-<img src="https://github.com/user-attachments/assets/e650f2de-acb4-409e-9ba7-ef4b6afa70d6" width="250" alt="Search Screen 3">
-<img src="https://github.com/user-attachments/assets/75201380-03f5-499f-a764-7abafb060ee7" width="250" alt="Search Screen 2">
-<img src="https://github.com/user-attachments/assets/d67974a4-a525-46fc-a13b-5a9e2ab35795" width="250" alt="Flights Screen">
-<img src="https://github.com/user-attachments/assets/3189d546-f3ef-4744-bd27-3fe421c460e2" width="250" alt="Favorite Added Snackbar">
-<img src="https://github.com/user-attachments/assets/3f12c0de-703f-4a3b-92bc-9f339ef1f5e1" width="250" alt="Flights Removed Snackbar">
-<img src="https://github.com/user-attachments/assets/24772923-4fb4-4c91-be59-3a58394c581a" width="250" alt="Favorites Screen">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d6b1a01a-fb1a-454c-aa53-2318512cc9a4" width="200" alt="Search Screen 1">
+      <p align="center">Search Screen 1</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/75201380-03f5-499f-a764-7abafb060ee7" width="200" alt="Search Screen 2">
+      <p align="center">Search Screen 2</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e650f2de-acb4-409e-9ba7-ef4b6afa70d6" width="200" alt="Search Screen 3">
+      <p align="center">Search Screen 3</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d67974a4-a525-46fc-a13b-5a9e2ab35795" width="200" alt="Flights Screen">
+      <p align="center">Flights Screen</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/24772923-4fb4-4c91-be59-3a58394c581a" width="200" alt="Favorites Screen">
+      <p align="center">Favorites Screen</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/3189d546-f3ef-4744-bd27-3fe421c460e2" width="200" alt="Favorite Added Snackbar">
+      <p align="center">Favorite Added</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/3f12c0de-703f-4a3b-92bc-9f339ef1f5e1" width="200" alt="Flights Removed Snackbar">
+      <p align="center">Favorite Removed</p>
+    </td>
+  </tr>
+</table>
 
 ## Technologies Used
 
