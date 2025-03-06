@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Flight App</string>
+    <string name="search_placeholder">Type name of the Airport</string>
+    <string name="no_favorites_error_message">No Favorites! Add some to show them.</string>
+    <string name="depart">DEPART</string>
+    <string name="arrive">ARRIVE</string>
+    <string name="flights_from">Flights From</string>
+    <string name="favorite_routes">Favorite Routes</string>
+    <string name="removed_from_favorites">Remove From Favorites</string>
+    <string name="added_to_favorites">Add To Favorites</string>
+    <string name="added_to_favorites_dialog_message">Route %1$s added to your favorite routes.</string>
+    <string name="removed_from_favorites_dialog_message">Route %1$s removed from your favorite routes.</string>"
+    <string name="ok_button">OK</string>
+</resources>
